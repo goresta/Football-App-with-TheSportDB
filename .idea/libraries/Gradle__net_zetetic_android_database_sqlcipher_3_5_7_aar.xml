@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: net.zetetic:android-database-sqlcipher:3.5.7@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/51368369bfd6a8583d895b59a97665ae/android-database-sqlcipher-3.5.7/res" />
+      <root url="jar://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/51368369bfd6a8583d895b59a97665ae/android-database-sqlcipher-3.5.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/51368369bfd6a8583d895b59a97665ae/android-database-sqlcipher-3.5.7/res" />
+      <root url="file://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/51368369bfd6a8583d895b59a97665ae/android-database-sqlcipher-3.5.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/modules-2/files-2.1/net.zetetic/android-database-sqlcipher/3.5.7/7ad8b6b469c96a929243f1899da6228c32ef3849/android-database-sqlcipher-3.5.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/modules-2/files-2.1/net.zetetic/android-database-sqlcipher/3.5.7/b2957e8329384e3a42e33ced2b0729c52f1b0685/android-database-sqlcipher-3.5.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

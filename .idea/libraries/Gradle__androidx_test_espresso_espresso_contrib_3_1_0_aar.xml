@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso:espresso-contrib:3.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/6b392d2be9b85ad55fe147d90c11b45d/espresso-contrib-3.1.0/res" />
+      <root url="file://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/6b392d2be9b85ad55fe147d90c11b45d/espresso-contrib-3.1.0/res" />
+      <root url="file://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/6b392d2be9b85ad55fe147d90c11b45d/espresso-contrib-3.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/6b392d2be9b85ad55fe147d90c11b45d/espresso-contrib-3.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/modules-2/files-2.1/androidx.test.espresso/espresso-contrib/3.1.0/e729f292edcdaa24e4aaaa22ed089430fe6ba95f/espresso-contrib-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/modules-2/files-2.1/androidx.test.espresso/espresso-contrib/3.1.0/65afa2fcc915a892a5bee48f1a68cb8965ab6cd/espresso-contrib-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

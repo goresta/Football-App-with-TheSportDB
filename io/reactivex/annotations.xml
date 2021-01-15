@@ -1,0 +1,7 @@
+<root>
+    <item name='io.reactivex.Observable E subscribeWith(E)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_-&gt;param1&quot;" />
+        </annotation>
+    </item>
+</root>

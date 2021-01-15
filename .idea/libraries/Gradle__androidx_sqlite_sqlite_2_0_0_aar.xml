@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.sqlite:sqlite:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/439ab2d9efba77b391b591c7b6aaf302/sqlite-2.0.0/res" />
+      <root url="file://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/439ab2d9efba77b391b591c7b6aaf302/sqlite-2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/439ab2d9efba77b391b591c7b6aaf302/sqlite-2.0.0/res" />
+      <root url="jar://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/439ab2d9efba77b391b591c7b6aaf302/sqlite-2.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/modules-2/files-2.1/androidx.sqlite/sqlite/2.0.0/713cd9c55cb460866eee941d386fe01d348b78f3/sqlite-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

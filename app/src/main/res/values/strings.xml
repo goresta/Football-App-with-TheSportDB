@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Football Match</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="loading_indicator">BallPulseIndicator</string>
+    <string name="search">Search</string>
+    <string name="last_match">Last Match</string>
+    <string name="upcoming_match">Upcoming Match</string>
+    <string name="query">query</string>
+    <string name="query_search">Search matches</string>
+    <string name="english_league">English Premier League</string>
+    <string name="german_league">German Bundesliga</string>
+    <string name="italian_league">Italian Serie A</string>
+    <string name="french_league">French Ligue 1</string>
+    <string name="spanish_league">Spanish La Liga</string>
+    <string name="netherland_league">Netherlands Eredivisie</string>
+    <string name="english_league_id">4328</string>
+    <string name="german_league_id">4331</string>
+    <string name="italian_league_id">4332</string>
+    <string name="french_league_id">4334</string>
+    <string name="spanish_league_id">4335</string>
+    <string name="netherland_league_id">4337</string>
+    <string name="versus">VS</string>
+    <string name="team_logo">Team Logo</string>
+    <string name="lineups">Lineups</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="league_logo">League Logo</string>
+    <string name="league_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="league_name">League Name</string>
+    <string name="match">Match</string>
+    <string name="favorite">Favorite</string>
+    <string name="standing">Standing</string>
+    <string name="team">Team</string>
+    <string name="team_query_hint">Search Team</string>
+    <string name="team_overview">Team Overview</string>
+    <string name="postion">Pos</string>
+    <string name="win">W</string>
+    <string name="draw">D</string>
+    <string name="loss">L</string>
+    <string name="gf_ga">GF-GA</string>
+    <string name="gd">GD</string>
+    <string name="pts">PTS</string>
+    <string name="match_played">MP</string>
+
+    <array name="leagueArray">
+        <item>English Premier League</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+        <item>Netherlands Eredivisie</item>
+    </array>
+
+</resources>

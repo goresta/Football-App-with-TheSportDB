@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.sqlite:sqlite-framework:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/a142a41cbb1e70c9622a30117c99aa23/sqlite-framework-2.0.0/res" />
+      <root url="file://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/a142a41cbb1e70c9622a30117c99aa23/sqlite-framework-2.0.0/res" />
+      <root url="jar://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/a142a41cbb1e70c9622a30117c99aa23/sqlite-framework-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/transforms-2/files-2.1/a142a41cbb1e70c9622a30117c99aa23/sqlite-framework-2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Football-Schedule-App/gradle/wrapper/gradle-5.4.1/caches/modules-2/files-2.1/androidx.sqlite/sqlite-framework/2.0.0/2e78fe3eb424eb602f9d53eda1e5725d5a4f27a0/sqlite-framework-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

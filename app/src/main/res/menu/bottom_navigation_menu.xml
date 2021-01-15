@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/leagueMatch"
+        android:enabled="true"
+        android:title="@string/match"
+        android:icon="@drawable/ic_matches"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/standingNav"
+        android:enabled="true"
+        android:title="@string/standing"
+        android:icon="@drawable/ic_standing"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/teamNav"
+        android:enabled="true"
+        android:title="@string/team"
+        android:icon="@drawable/ic_team"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/favNav"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_menu"
+        android:title="@string/favorite"
+        app:showAsAction="ifRoom" />
+</menu>
